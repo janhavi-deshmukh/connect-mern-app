@@ -1,0 +1,65 @@
+.userInfo{
+   margin: 16px;
+   padding-top: 10px;
+}
+
+.title{
+    margin: 10px;
+}
+.profileright{
+    border-radius: 10px;
+    box-shadow: -1px 3px 23px -6px rgba(3,3,3,0.66);
+    -webkit-box-shadow: -1px 3px 23px -6px rgba(3,3,3,0.66);
+    -moz-box-shadow: -1px 3px 23px -6px rgba(3,3,3,0.66); 
+    
+
+}
+.Userfollowings{
+   display: flex;
+   align-items: center;
+   flex-wrap: wrap;
+}
+
+.infoContainer{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+   
+}
+
+.infoItem{
+    display: flex;
+    align-items: center;
+   
+    padding: 8px;
+}
+
+.infoKey{
+    font-weight: 600;
+}
+
+.infoValue{
+    margin-left: 20px;
+    font-weight: 100px;
+}
+
+.friendTitle{
+   padding: 16px;
+   margin-left: 10px;
+}
+
+.friendInfobar{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    cursor: pointer;
+    
+}
+
+.followingImg{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+    
+}

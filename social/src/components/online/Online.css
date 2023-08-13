@@ -1,0 +1,18 @@
+.rightbarFriendlisitem{
+    display: flex;
+    align-items: center; 
+    padding: 10px;
+}
+
+.onlineImg{
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.imgOnline{
+    display: flex;
+    align-items: center;
+    position: relative;
+}

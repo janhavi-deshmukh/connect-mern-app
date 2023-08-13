@@ -1,0 +1,49 @@
+.bdayConatiner{
+    display: flex;
+    flex:2;
+    align-items: center;
+}
+
+
+.bdayImg{
+    width:100px;
+    height:100px;
+   
+}
+
+.adImg{
+    width: 100%;
+    height: 250px;
+    border-radius: 15px;
+}
+.onlinebar{
+    margin-top: 16px;
+    padding: 10px;
+    font-size: 1.5em;
+}
+
+.friendListcontainer{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 15px;
+    box-shadow: -1px 3px 33px -6px rgba(3,3,3,0.66);
+    -webkit-box-shadow: -1px 3px 33px -6px rgba(3,3,3,0.66);
+    -moz-box-shadow: -1px 3px 33px -6px rgba(3,3,3,0.66);
+}
+
+.onlinelogo{
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: rgb(30, 221, 30);
+    position: absolute;
+    top: -2.5px;
+    right: 4px;
+}
+
+
+
+.onlineName{
+    margin-left: 10px;
+} 
